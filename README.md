@@ -50,8 +50,10 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan lakukan hal berikut:
 
 ## Screenshot
 
-![Employee Dashboard Screenshot](https://example.com/screenshot.png)
-Screenshot 2025-04-19 183545
-Screenshot 2025-04-19 193408
-Screenshot 2025-04-19 200549
-Screenshot 2025-04-19 204309
+![Employee Dashboard Screenshot](Dashboard/Screenshot%202025-04-19%20183545.png)
+
+![Employee Dashboard Screenshot](Dashboard/Screenshot%202025-04-19%20193408.png)
+
+![Employee Dashboard Screenshot](Dashboard/Screenshot%202025-04-19%20200549.png)
+
+![Employee Dashboard Screenshot](Dashboard/Screenshot%202025-04-19%20204309.png)
